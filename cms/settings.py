@@ -124,6 +124,8 @@ INSTALLED_APPS = (
      'django.contrib.admin',
      'django.contrib.flatpages',
      'search',
+     'coltrane',
+     'tagging',
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
 )
